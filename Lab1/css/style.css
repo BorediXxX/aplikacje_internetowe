@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    background: #b8c4c0;
+    margin: auto;
+    width: 666px;
+    height: 50vh;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    background: #4ac6f4;
+    width: 100px;
+}
+.two{
+    background: #4cf5bb;
+    flex-grow: 1.5; 
+}
+.three{
+    background: #d1f069;
+    flex-grow: 1;
+}
+
+.top{
+    background: #8572f2;
+    flex-grow: 1;
+}
+.mid{
+    flex-grow: 1;
+    background: #5eeb89;
+}
+.bot{
+    flex-grow: 2;
+    
+}
