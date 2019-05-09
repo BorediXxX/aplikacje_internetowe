@@ -16,7 +16,7 @@ html,body{
     margin: 40px auto;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 2fr 1fr 1fr 1fr 1fr;
-    border: 10px solid black;
+    border: 11px solid black;
     
     
 }
